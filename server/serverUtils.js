@@ -9,6 +9,9 @@ var Message = models.Message;
 var Listing = models.Listing;
 var sequelize = require('./db/database.js');
 
+/*
+Ignore below for now. 
+*/
 module.exports = {
   getAll: function(req, res, model, conditions){
     model.findAll({
