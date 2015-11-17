@@ -5,7 +5,7 @@ A parking app that matches Users looking for a short-term or long-term parking s
 
   - __Product Owner__: Artem Bakalov
   - __Scrum Master__: Boshika Tara
-  - __Development Team Members__: Max Yazhbin, Mike Hsieh, Boshika Tara, Artem Bakalov
+  - __Development Team Members__: Max Yazhbin, Mike Hsieh
 
 ## Table of Contents
 
